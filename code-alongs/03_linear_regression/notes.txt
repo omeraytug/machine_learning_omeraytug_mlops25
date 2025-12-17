@@ -1,0 +1,6 @@
+-y = w_0 + w_1 x
+The equation y = w_0 + w_1 x represents a simple linear regression model that describes a straight-line relationship between an input variable x and an output variable y. In this equation, w_0 is called the intercept and it shows the value of y when x is zero, while w_1 is the slope and indicates how much y changes when x increases by one unit. Together, these two parameters determine the position and steepness of the line, allowing the model to make predictions of y for different values of x.
+
+
+
+-In linear regression, a residual is the difference between an actual observed data point and the value predicted by the regression line (y - ŷ), representing the model's error for that point
